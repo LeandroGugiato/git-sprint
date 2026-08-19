@@ -1,4 +1,4 @@
 # Equipo
-Lema: TODO
+Lema: Todo pasa...
 Contacto: equipo@ejemplo.con
 Version: 0.1
